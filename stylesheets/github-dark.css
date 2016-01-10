@@ -1,16 +1,4 @@
-div.chat-msg-ShoeonheadKappa .username {
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-     background-image: url(https://31.media.tumblr.com/b5813cefb71164eda10945ce62370bb4/tumblr_mwdo5qBPBt1sh2fhfo1_500.gif);
-     background-size: cover;
-}
 
-.chat-msg-TheNick .username {
-   -webkit-animation: rainbow 1s infinite;
-   -ms-animation: rainbow 1s infinite;
-   -o-animation: rainbow 1s infinite;
-   animation: rainbow 1s infinite;
-}
 .chat-msg-GeneralTotoss .username:before {
    content: '';
    display: inline-block !important;
@@ -160,10 +148,10 @@ div.chat-msg-Mogge .username:before {
       content: '';
       display: inline-block !important;
       vertical-align: middle;
-      width: 28px !important;
+      width: 35px !important;
       visibility: visible !important;
-      height: 28px !important;
-      background-image: url(http://i.imgur.com/inJKzfT.gif?1);
+      height: 24px !important;
+      background-image: url(http://i.imgur.com/tMbXEHS.png?1);
 }
 .chat-msg-Gibbileno .username:before {
       content: '';
