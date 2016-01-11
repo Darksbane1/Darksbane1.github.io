@@ -243,6 +243,7 @@ div.chat-msg-Mogge .username:before {
       background-size: cover;
       margin-right: 5px;
 }
+{}
 .chat-msg-megaman .username:before {
         content: '';
 display: inline-block !important;
