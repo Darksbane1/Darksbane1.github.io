@@ -69,8 +69,9 @@ div.chat-msg-Mudrac .username:before {
       width: 31px !important;
       visibility: visible !important;
       height: 40px !important;
-      background-image: url(http://i.imgur.com/2CpMkAj.png?1);
+      background-image: url(http://i.imgur.com/2CpMkAj.png);
 }
+
 
 .chat-msg-Mogge .username {
       color: #FF80E8;
