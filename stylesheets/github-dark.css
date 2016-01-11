@@ -7,7 +7,6 @@
    visibility: visible !important;
    height: 27px !important;
    background-image: url(http://i.imgur.com/DkkURrE.gif);
- //background-image: url(http://i.imgur.com/cIEY0c9.gif);
    background-size: 60%;
    background-size: cover;
 }
@@ -70,7 +69,7 @@ div.chat-msg-Mudrac .username:before {
       width: 31px !important;
       visibility: visible !important;
       height: 40px !important;
-      background-image: url(http://i.imgur.com/2CpMkAj.png);
+      background-image: url(http://i.imgur.com/2CpMkAj.png?1);
 }
 
 .chat-msg-Mogge .username {
