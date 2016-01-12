@@ -35,15 +35,16 @@
    background-size: 60%;
    background-size: cover;
 }
-div.chat-msg-Darksbane .username:before {
+.chat-msg-Darksbane .username:before {
+      background: url(http://orig00.deviantart.net/d410/f/2012/342/0/e/kirino_kousaka_by_deadcalm-d5msy38.png);
+      width: 25px !important;
+      height: 50px !important;
       content: '';
-      display: inline-block !important;
+      display: inline-block;
       vertical-align: middle;
-      width: 28px !important;
-      visibility: visible !important;
-      height: 58px !important;
-      background-image: url(http://i.imgur.com/oTs27Y2.png);
-}
+      background-size: cover;
+      margin-right: 3px;
+} 
 div.chat-msg-UXEN .username:before {
       content: '';
       display: inline-block !important;
