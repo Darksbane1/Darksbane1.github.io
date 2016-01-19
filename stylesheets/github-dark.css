@@ -107,9 +107,9 @@ div.chat-msg-Mogge .username:before {
       margin-right: 3px;
 } 
 .chat-msg-rarityw .username:before {
-      background: url(http://i.imgur.com/Ji0MPuw.png);
-      width: 35px !important;
-      height: 38px !important;
+      background: url(http://i.imgur.com/TSAgpH5.png);
+      width: 33px !important;
+      height: 30px !important;
       content: '';
       display: inline-block;
       vertical-align: middle;
@@ -244,7 +244,7 @@ div.chat-msg-Mogge .username:before {
       background-size: cover;
       margin-right: 5px;
 }
-{}
+
 .chat-msg-megaman .username:before {
         content: '';
 display: inline-block !important;
