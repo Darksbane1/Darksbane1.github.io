@@ -151,8 +151,8 @@ div.chat-msg-Mogge .username:before {
       vertical-align: middle;
       width: 30px !important;
       visibility: visible !important;
-      height: 18px !important;
-      background-image: url(https://i.imgur.com/nkK9z7j.jpg);
+      height: 30px !important;
+      background-image: url(http://i.imgur.com/DyuPUWD.png);
 }
 .chat-msg-Gibbileno .username:before {
       content: '';
