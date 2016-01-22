@@ -145,14 +145,14 @@ div.chat-msg-Mogge .username:before {
       height: 35px !important;
       background-image: url(http://i.imgur.com/4E77qD2.png?1);
 }
-.chat-msg-TheNick .username:before {
-      content: '';
-      display: inline-block !important;
-      vertical-align: middle;
-      width: 30px !important;
-      visibility: visible !important;
-      height: 30px !important;
-      background-image: url(http://i.imgur.com/DyuPUWD.png);
+.chat-msg-TheNick .username:before{
+   content: '';
+   display: inline-block !important;
+   vertical-align: middle;
+   width: 30px !important;
+   visibility: visible !important;
+   height: 30px !important;
+   backgroubd-image: url(http://i.imgur.com/DyuPUWD.png);
 }
 .chat-msg-Gibbileno .username:before {
       content: '';
