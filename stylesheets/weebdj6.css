@@ -139,10 +139,10 @@ div.chat-msg-Mogge .username:before {
       content: '';
       display: inline-block !important;
       vertical-align: middle;
-      width: 30px !important;
+      width: 25px !important;
       visibility: visible !important;
-      height: 35px !important;
-      background-image: url(http://i.imgur.com/Xyg38ba.png?1);
+      height: 37px !important;
+      background-image: url(http://i.imgur.com/tcqrX54.png?1);
 }
 .chat-msg-TheNick .username:before {
       content: '';
