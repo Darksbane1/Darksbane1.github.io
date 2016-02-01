@@ -141,9 +141,10 @@ div.chat-msg-Mogge .username:before {
       vertical-align: middle;
       width: 25px !important;
       visibility: visible !important;
-      height: 30x !important;
+      height: 30px !important;
       background-image: url(http://i.imgur.com/KpZXYRu.png?1);
 }
+
 .chat-msg-TheNick .username:before {
       content: '';
       display: inline-block !important;
