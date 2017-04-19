@@ -22,6 +22,7 @@
    background-size: 60%;
    background-size: cover;
 }
+{}
 
 .chat-msg-Uberone .username:before {
    content: '';
